@@ -1,0 +1,29 @@
+
+h1 {
+    color :  turquoise;
+}
+
+ h2 {
+     color : magenta;
+     font-size: large;
+ }
+
+ h3 {
+     color : purple;
+     font-size: large;
+ }
+
+ h4 {
+     color : crimson;
+     font-size: large;
+ }
+
+ .menu{
+     display : flex;
+     justify-content : space-between;
+     background-color : yellow;
+     
+ }
+
+ 
+
